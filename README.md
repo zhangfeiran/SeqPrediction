@@ -23,4 +23,5 @@
 - 用提交的最优模型测试的命令：同上
     - 预期的结果：print出6h、6类的准确率
     
-
+# Futures price prediction
+- 采用了三种模型：kNN、DNN、LSTM
