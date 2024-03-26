@@ -24,4 +24,5 @@
     - 预期的结果：print出6h、6类的准确率
     
 # Futures price prediction
+- 见PricePrediction文件夹
 - 采用了三种模型：kNN、DNN、LSTM
