@@ -1,3 +1,4 @@
+# PM2.5 prediction using LSTM-based encoder-decoder model with attention
 - 每部分文件作用描述：
     - data/：存放相关非代码文件，包括：
         - 空气质量数据（./data/beijing_20140101-20141231/...）
